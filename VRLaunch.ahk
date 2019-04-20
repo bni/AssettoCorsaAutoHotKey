@@ -1,7 +1,7 @@
 ; VR Launch
 
 F1::
-  ; DCS World OpenBeta
+  ; DCS World
   Run, C:\Program Files\Eagle Dynamics\DCS World OpenBeta\bin\DCS.exe, C:\Program Files\Eagle Dynamics\DCS World OpenBeta
   Return
 
