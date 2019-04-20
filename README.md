@@ -1,7 +1,7 @@
 Install [AutoHotKey](https://autohotkey.com)
 
-Copy AssettoCorsaAutoHotKey.ahk to Startup (Run -> shell:Startup)
+Copy VRLaunch.ahk to Startup (Run -> shell:Startup)
 
 Reboot
 
-Now Assetto Corsa Competizione can be stared and quitted from wheel buttons.
+Now VR apps can be stared (F1, F2, F3) and quitted (F4).
